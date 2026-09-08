@@ -4,6 +4,7 @@ function App() {
     return (
         <main className="h-screen w-full bg-black flex gap-5 p-4 ">
             <aside className="h-full w-1/4 bg-[#55100D] rounded-xl">
+            
 
             </aside>
             <section className="w-3/4 bg-[#1A0706] rounded-xl">
